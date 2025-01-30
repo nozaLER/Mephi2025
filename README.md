@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/851be022-1934-45fb-9c14-3c23726a79b0)
 ## Трансляции
 **График трансляций конференции**  
 —-  
@@ -52,3 +52,4 @@
 | 184   | Генерация второй оптической гармоники на одномерных периодических структурах в силикатном стекле                                            | [Постер](https://disk.yandex.ru/i/Kj8KzxRewuvkpg) | [Обсуждение](https://ivaedu.mephi.ru/#join:tabeb65ff-ea3e-4368-b003-09cd0acf362f) |
 | 121   | Электрические характеристики nB(SL)n – структур на основе HgCdTe для LWIR диапазона                                                         | [Постер](https://disk.yandex.ru/i/4vpcWfj7Ex79Ag)     | [Обсуждение](https://ivaedu.mephi.ru/#join:ta263a55f-0b8f-49dc-9df0-9503e8f2374c)     |
 | 150   | Кинетика сенсибилизированных красителем фотопроцессов в кремнии n- и р-типа                                                         | [Постер](https://disk.yandex.ru/i/cfXpqK4lQsZH9Q)     | [Обсуждение](https://ivaedu.mephi.ru/#join:t0322f5ce-9a3c-45c9-881c-52fdf592368d)     |
+| 245   | Брэгговская дифракция эллиптического гауссова пучка на регулярных доменных структурах с наклонными стенками в кристалле ниобата лития       | [Постер](https://disk.yandex.ru/i/fQIDBAqLrVTl9g)     | [Обсуждение](https://ivaedu.mephi.ru/#join:tc6a747ee-567e-4af8-b4a8-5501bcf47c0e)     |     |
